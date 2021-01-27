@@ -95,10 +95,5 @@ namespace VPN
         {
             Response.Write("<script>alert('" + message + "')</script>");
         }
-
-        protected void btnNuevo_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

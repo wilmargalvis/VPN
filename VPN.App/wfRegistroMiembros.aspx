@@ -120,7 +120,6 @@
 
             <div style="text-align: center">
                 <asp:CheckBox runat="server" class="form-check-input" ID="chkConsentimiento" required="required" aria-required="true" />
-                <%--  <input type="checkbox" class="form-check-input" id="consentimiento" required="required" aria-required="true">--%>
                 <asp:Label runat="server" class="form-check-label" for="chkConsentimiento">Doy consentimiento para que VIDA PARA LAS NACIONES almacene mis datos y se ponga en contacto conmigo </asp:Label>
                 <%--<asp:RequiredFieldValidator runat="server" ID="RequiredFieldValidator2" ControlToValidate="chkConsentimiento" InitialValue="0" ForeColor="Red" ErrorMessage="*"></asp:RequiredFieldValidator>--%>
                 <asp:CustomValidator ID="CustomValidator1" runat="server" ErrorMessage="*Requerido" ForeColor="Red" ClientValidationFunction="ValidateCheckBox"></asp:CustomValidator>
@@ -130,7 +129,6 @@
 
         <div style="text-align: center;">
             <asp:Button runat="server" ID="btnRegistrar" CssClass="btn btn-primary" OnClick="btnRegistrar_Click" Text="Registrar" CausesValidation="true" />
-            <asp:Button runat="server" ID="btnNuevo" CssClass="btn btn-primary" OnClick="btnNuevo_Click" Text="Nuevo" CausesValidation="true" />
         </div>
         
     </div>
