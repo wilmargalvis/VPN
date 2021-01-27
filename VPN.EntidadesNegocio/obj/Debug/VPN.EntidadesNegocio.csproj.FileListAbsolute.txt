@@ -1,0 +1,6 @@
+C:\Proyectos\VPN.Web\VPN.EntidadesNegocio\bin\Debug\VPN.EntidadesNegocio.dll
+C:\Proyectos\VPN.Web\VPN.EntidadesNegocio\bin\Debug\VPN.EntidadesNegocio.pdb
+C:\Proyectos\VPN.Web\VPN.EntidadesNegocio\obj\Debug\VPN.EntidadesNegocio.csproj.CoreCompileInputs.cache
+C:\Proyectos\VPN.Web\VPN.EntidadesNegocio\obj\Debug\VPN.EntidadesNegocio.dll
+C:\Proyectos\VPN.Web\VPN.EntidadesNegocio\obj\Debug\VPN.EntidadesNegocio.pdb
+C:\Proyectos\VPN.Web\VPN.EntidadesNegocio\obj\Debug\VPN.EntidadesNegocio.csprojAssemblyReference.cache

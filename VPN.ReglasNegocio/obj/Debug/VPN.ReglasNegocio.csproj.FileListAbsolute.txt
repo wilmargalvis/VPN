@@ -1,0 +1,15 @@
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\bin\Debug\VPN.ReglasNegocio.dll.config
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\bin\Debug\VPN.ReglasNegocio.dll
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\bin\Debug\VPN.ReglasNegocio.pdb
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\bin\Debug\VPN.DatosNegocio.dll
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\bin\Debug\VPN.EntidadesNegocio.dll
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\bin\Debug\VPN.DatosNegocio.pdb
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\bin\Debug\VPN.DatosNegocio.dll.config
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\bin\Debug\VPN.EntidadesNegocio.pdb
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\obj\Debug\VPN.ReglasNegocio.csprojAssemblyReference.cache
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\obj\Debug\VPN.ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\obj\Debug\VPN.ReglasNegocio.csproj.CopyComplete
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\obj\Debug\VPN.ReglasNegocio.dll
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\obj\Debug\VPN.ReglasNegocio.pdb
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Proyectos\VPN.Web\VPN.ReglasNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
